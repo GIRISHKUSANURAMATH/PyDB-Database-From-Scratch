@@ -1,0 +1,4 @@
+# PyDB itself has no runtime dependencies (Python standard library only).
+# These are needed to run the test suite and the linter.
+pytest>=7.0
+ruff>=0.4
