@@ -37,7 +37,7 @@ pydb> SELECT name, age FROM users WHERE age >= 18 ORDER BY age DESC;
 +--------+-----+
 | name   | age |
 +--------+-----+
-| Asha   | 34  |
+| Adarsh  | 34  |
 | Girish | 21  |
 +--------+-----+
 2 rows returned.
